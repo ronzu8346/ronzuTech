@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Whatevr">
+  <test name="Whatever">
+    <classes>
+          <class name="UnitTest">
+              <methods>
+                   <include name="login"></include>
+                   <include name="logout"></include>
+              </methods>
+          </class>
+      
+    </classes>
+  </test> 
+</suite> 
